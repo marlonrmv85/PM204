@@ -22,3 +22,8 @@ let usuarios=[
     {nombre:"mendieta",edad:"21"},
 ]
 console.table(usuarios)
+
+
+let frutas = ["Manzana", "Banana"];
+
+console.log(frutas.length);
