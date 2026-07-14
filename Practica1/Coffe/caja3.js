@@ -317,7 +317,7 @@ console.log("Hola Bienvenidos a Cafecito");
 // Muestra una pregunta al usuario y espera a que escriba algo y presione Enter.
 // "Cual es tu nombre?" es el texto que se muestra
 // function(nombre) cuando el usuario escribe y presiona Enter,
-// lo que escribio se guarda automaticamente en la variable nombre
+// lo que escribio se guarda automaticamente en la varible nombre
 rl.question("\nCual es tu nombre? ", function(nombre) {
     console.log("\nHola " + nombre + "! Que vas a ordenar hoy?");
 
